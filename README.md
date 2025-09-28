@@ -8,6 +8,12 @@ A step-by-step example of building an **AI-powered chatbot** using **OpenAI GPT 
 
 ---
 
+## Project Preview
+
+![Demo Preview of the AI Chatbot Interface](./assets/project-preview.png)
+
+---
+
 ## Tech Stack
 
 - [Next.js](https://nextjs.org/)  
